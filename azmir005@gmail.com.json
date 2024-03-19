@@ -1,0 +1,19 @@
+{
+  "name": "Infosys Limited",
+  "instanceName": "AP4",
+  "namespacePrefix": null,
+  "isSandbox": false,
+  "isScratch": false,
+  "trailExpirationDate": null,
+  "username": "azmir005@gmail.com",
+  "tracksSource": false,
+  "accessToken": "2580fa4fc6d2d169a192269bb7c875c79ead2ca65a7670c0519576409acbf1786ba904412808fe2f8eaaae6b2f899dac876eaf5da3aade61fa11249969786a6727075a6d6444bbf9497e402a6bbefacf0eef16e3b98bff0dce48c31ba38b80aff9de93ebd3f5411027d6b16b7dbcb5d4228401f6794b:25216ae75cab92dbfa356a53d487d3e8",
+  "instanceUrl": "https://d6f000002t7cwuac-dev-ed.my.salesforce.com",
+  "orgId": "00D6F000002T7cwUAC",
+  "loginUrl": "https://login.salesforce.com/",
+  "refreshToken": "324369799da5b76f73bf9910b5a36c5c621890213bc4898b91912ed21c3f42e753a6d916d6168d4eae51a9963121a5c086744cd9a6cc4db68f4561beefd07a3042a43341a877626f162eadd41256557afe21569c41ddedbaa33c4567ea:8a53fb6bd09e0fdfba10f73d2a65bde0",
+  "clientId": "PlatformCLI",
+  "isDevHub": false,
+  "instanceApiVersion": "60.0",
+  "instanceApiVersionLastRetrieved": "3/18/2024, 11:28:29 PM"
+}
